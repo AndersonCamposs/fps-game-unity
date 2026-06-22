@@ -23,5 +23,6 @@ Para abrir e testar o projeto na sua máquina, siga os passos abaixo:
 
 ### 1. Clonar o Repositório
 Abra o seu terminal (ou Git Bash) e clone o projeto usando o comando:
+
 ```bash
-git clone [https://github.com/AndersonCamposs/fps-game-unity.git](https://github.com/AndersonCamposs/fps-game-unity.git)
+git clone https://github.com/AndersonCamposs/fps-game-unity.git
